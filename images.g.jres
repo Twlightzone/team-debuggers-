@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/wAAAAAAAMD/DwDwzwAAAAAAALy8/ADwywAAAAAAAAzAy///+wAAAMD/DwDA293d/QAAALzM/M+73d29+wAAwAzA/Nzbvbvd+w8AAAAA/73dzLvb3Q8AAAAA39vNzP+83M2wzADA3NvL3A+8zM0Au8zMvd0M3A+8y/8AwL27270A2w/A+wAAANzd3Qyw+wAA/wAAAMDMzACwDwAA8AAAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "seed"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
