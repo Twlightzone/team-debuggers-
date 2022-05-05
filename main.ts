@@ -241,7 +241,7 @@ sprites.onOverlap(SpriteKind.Player, SpriteKind.Enemy, function (sprite, otherSp
 let New_player: Sprite = null
 let Tree1 = null
 let Seed = sprites.create(assets.image`seed`, SpriteKind.Food)
-Seed.setPosition(1720, Seed.y + 150)
+Seed.setPosition(1720, Seed.y + 155)
 New_player = sprites.create(img`
     . . . . . . f f f f . . . . . . 
     . . . . f f f 2 2 f f f . . . . 
